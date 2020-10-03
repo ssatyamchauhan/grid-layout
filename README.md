@@ -15,7 +15,7 @@ Using Grid;
 
 ### How to the run the project.
 
-1. git clone project-url
+1. ```git clone git@github.com:ssatyamchauhan/grid-layout.git```
 2. open the terminal and ```cd project-directory```
 3. run ```google-chrome index.html```
 
