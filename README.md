@@ -1,7 +1,7 @@
 ## Simple Grid Responsive layout.
 
 ### Preview
-![preview](https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg)
+![preview](https://github.com/ssatyamchauhan/grid-layout/blob/main/preview.png)
 
 This project is about how to make a simple responsive layout having:
 
