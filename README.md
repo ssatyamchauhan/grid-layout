@@ -1,5 +1,6 @@
 ## Simple Grid Responsive layout.
 
+### [live-demo](https://ssatyamchauhan.github.io/grid-layout/index.html)
 ### Preview
 ![preview](https://github.com/ssatyamchauhan/grid-layout/blob/main/preview.png)
 
